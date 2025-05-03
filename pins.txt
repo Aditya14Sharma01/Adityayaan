@@ -1,0 +1,26 @@
+0 ~ rx 
+1 ~ tx
+13 ~ Buzzer
+ 
+2 - black servo 
+3 - blue servo 
+4 - grip arm 
+
+5 ~ Moisture sensor 
+6 ~ Motion sensor 
+7 ~ Gps module
+8 ~ Gps module
+
+9 ~ Motor driver
+10 ~ Motor driver
+11 ~ Motor driver
+12 ~ Motor driver
+
+
+
+A0 ~ LDR
+A1 ~ z axis (acceleration)
+A2 ~ y axis (accleration)
+A3 ~ x axis (acceleration)
+A4 -
+A5 -
